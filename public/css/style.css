@@ -158,6 +158,10 @@
     background-size: cover;
 }
 
+.bg-red{
+    background:#ac1e0b;;
+}
+
 .hero-header img {
     animation: imgRotate 50s linear infinite;
 }
