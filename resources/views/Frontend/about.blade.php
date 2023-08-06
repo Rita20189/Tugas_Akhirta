@@ -21,7 +21,7 @@
                     </div>
                     <div class="col-lg-5">
                         <h5 class="section-title ff-secondary text-start text-primary fw-normal">About Us</h5>
-                        <h1 class="mb-4">Welcome to <i class="fa fa-utensils text-primary me-2"></i>Alvanza Food Court</h1>
+                        <h1 class="mb-4">Welcome to </i>Alvanza Food Court</h1>
                         <p class="mb-4" style="text-align: justify;">Alvanza food court adalah sebuah tempat yang menjual berbagai makanan dan minuman berlokasi Jl. Dr. Moh. Hatta No.15, Kapala Koto, Kec. Pauh, Kota Padang.</p>
                         <p class="mb-4" style="text-align: justify;">Alvanza food court ini didirikan pada tahun 2015 dengan tujuan untuk memberikan pengalaman kuliner yang menyenangkan dan nyaman bagi pelanggan. Alvanza food court memiliki gaya dan konsep desain yang modern serta menawarkan beragam makanan dan minuman berkualitas.</p>
 
@@ -37,4 +37,4 @@
             </div>
         </div>
  </section>
-        <!-- About End -->
+<!-- About End -->
